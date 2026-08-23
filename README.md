@@ -10,7 +10,7 @@
 
 - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)** na UNICEPLAC, atualmente no 2º semestre
 - 📫 Busco vaga na área.
-- ✅ Automatizo processos com Python ou n8n
+- ✅ Automatizo processos e tarefas com Python ou n8n
 
 ---
 
@@ -27,7 +27,7 @@
 ### 📬 Contato
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/www.linkedin.com/in/davifreitass" target="_blank">
+  <a href="https://www.linkedin.com/in/davifreitass" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
