@@ -1,7 +1,7 @@
-<h1 align="center">Hello World!</h1>
+<h1 align="center">AUTOMATION ENGINEER (RPA)</h1>
 
 <p align="center">
-  <img src="https://demolab.com Engineer (RPA);&alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=2ECC71&center=true&vCenter=true&width=600&lines=Hello+World!;Ol%C3%A1+Mundo!" alt="Typing SVG"/>
 </p>
 
 ---
@@ -9,7 +9,7 @@
 ### 🧭 Sobre mim
 
 - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)** na UNICEPLAC, atualmente no 2º semestre
-- 📫 Busco vaga na área.
+- 📫 Buscando oportunidade na área de TI
 - ✅ Automatizo processos e tarefas com Python ou n8n
 
 ---
@@ -17,29 +17,22 @@
 ### 🧰 Stack & Ferramentas
 
 <p align="left">
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </p>
-
----
-
-### 🚀 Projetos em Destaque
-
-| Projeto | Descrição | Tecnologias | Link |
-| :--- | :--- | :--- | :--- |
-| **Web Scraper & Data Pipeline** | Bot que extrai dados de relatórios da web, trata as informações e atualiza uma planilha automaticamente. | Python, Pandas, Selenium | [Ver projeto](seu-link-aqui) |
-| **Workflow de Integração Automatizada** | Fluxo integrado que recebe webhooks de sistemas, processa dados e dispara alertas em tempo real. | n8n, Webhooks, APIs | [Ver projeto](seu-link-aqui) |
 
 ---
 
 ### 📬 Contato
 
 <p align="left">
-  <a href="https://linkedin.com" target="_blank">
-    <img src="https://shields.io" />
+  <a href="https://www.linkedin.com/in/davifreitass/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:seu-email@dominio.com" target="_blank">
-    <img src="https://shields.io" />
+  <a href="mailto:davigabrielsantosfreitass@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
