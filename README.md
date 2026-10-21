@@ -1,7 +1,7 @@
-<h1 align="center">AUTOMATION ENGINEER (RPA)</h1>
+<h1 align="center">Hello World!</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=2ECC71&center=true&vCenter=true&width=600&lines=Hello+World!;Ol%C3%A1+Mundo!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=2ECC71&center=true&vCenter=true&width=600&lines=Estudante+de+TI;Desenvolvedor+RPA;Suporte+N1;Analista+de+Dados" alt="Typing SVG"/>
 </p>
 
 ---
