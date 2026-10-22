@@ -11,6 +11,7 @@
 - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)** na UNICEPLAC, atualmente no 2º semestre
 - 📫 Buscando oportunidade na área de TI
 - ✅ Automatizo processos e tarefas com Python ou n8n
+- 🎲 Analiso e trato dados 
 
 ---
 
